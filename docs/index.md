@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "TODO: Title"
-  text: "TODO: Subtitle"
-  tagline: "TODO: Tagline"
+  name: "Sonny Wu"
+  text: "Student at MIT aspiring to become a software engineer"
+  tagline: "We will build great things!"
   actions:
     - theme: brand
       text: Template Repository
